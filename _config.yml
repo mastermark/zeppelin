@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "London Launchpad 2015"
+title: "Startup Launchpad London 2015"
 email: "mastermark@google.com"
-description: "Blah, blah blah"
+description: "Startup Launchpad London 2015"
 baseurl: "/zeppelin"
 url: "http://mastermark.github.io"
 permalink: "/blog/:title"
@@ -56,16 +56,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Startup Launchpad <typeout> 2015"
+heroTitle: "Startup Launchpad London 2015"
 eventDate: "April 20 - 24, 2015"
 typeoutTextValues: '"London", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
-heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+#heroButtons:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Startup Launchpad London"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "15", specialCharacter: "+", info: "startups", detail: "from the UK"}
+ - {count: "5", specialCharacter: "+", info: "days", detail: "of pure acceleration"}
+ - {count: "20", specialCharacter: "+", info: "mentors", detail: "to add vakue"}
+ - {count: "1", specialCharacter: "", info: "great event", detail: "plus a party!"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -85,8 +85,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Rockstar mentors"
+rockstarSpeakersButtonText: "See all mentors"
 
 # Location Block
 locationBlockTitle: "Location"
